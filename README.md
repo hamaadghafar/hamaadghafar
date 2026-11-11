@@ -65,8 +65,9 @@
 ### Engineering Principles
 
 ```text
-Automate the toil   ·   Measure before you tune   ·   Alert on symptoms, not causes
-Design for failure  ·   Everything as code         ·   Blameless postmortems, always
+Automate the toil     ·   Measure before you tune
+Alert on symptoms     ·   Design for failure
+Everything as code    ·   Blameless postmortems
 ```
 
 ---
@@ -74,7 +75,7 @@ Design for failure  ·   Everything as code         ·   Blameless postmortems, 
 ### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamaadghafar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamaadghafar&theme=github_dark" alt="GitHub Stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=hamaadghafar&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub Streak"/>
 </p>
 
